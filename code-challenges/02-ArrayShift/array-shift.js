@@ -22,3 +22,5 @@ const insertShiftArray = (arr, val) => {
 };
 
 insertShiftArray(arr, val);
+
+module.exports = insertShiftArray;
